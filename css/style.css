@@ -165,4 +165,7 @@ header{
 	font-weight: 400;
 	color: #ffffff;
 }
+.custom_link a:hover{
+	color: #fcdb00;
+}
 /*contact end*/
