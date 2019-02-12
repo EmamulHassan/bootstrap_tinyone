@@ -1,0 +1,274 @@
+/*COL Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+.menubar ul li a{
+	padding: 0 0px !important;
+	text-align: center;
+}
+/*header end*/
+/*slider start*/
+.inspiration{
+	margin-top: 0px;
+}
+.inspiration h1{
+	font-size: 24px;
+	text-align: center;
+}
+.inspiration h3{
+	font-size: 18px;
+	text-align: center;
+}
+.inspiration p{
+	font-size: 16px;
+	text-align: center;
+}
+.inspiration i{
+	font-size: 20px;	
+	margin-right: 10px;
+}
+.list-inline {
+    text-align: center;
+}
+.c_indi li {
+    width: 10px;
+    height: 10px;
+}
+/*slider end*/
+/*features start*/
+.content h1{
+	font-size: 24px;
+	padding-top: 30px;
+}
+.content p{
+	padding: 0 0px;
+	font-size: 16px;
+	padding-bottom: 20px;
+}
+.logo{
+	padding: 7px;
+    text-align: center;
+}
+.logo a{
+	font-size: 30px;	
+}
+.content_feature{}
+.content_title {
+    padding: 0px;
+}
+.content_feature h1{
+	padding-top: 7px;
+	font-size: 20px;
+	text-align: center;
+}
+.content_feature p{
+    padding-bottom: 0px;
+    text-align: center;
+
+}
+/*features end*/
+/*contact start*/
+.contact_icon {
+    padding-top: 50px;
+}
+.touch h1 {
+    padding-top: 40px;
+    font-size: 24px;
+    padding-bottom: 10px;
+}
+.touch p {
+    padding: 0 0px;
+    font-size: 16px;
+    padding-bottom: 20px;
+}
+.contact_icon img {
+    padding: 0 10px;
+}
+.address {
+    padding-top: 30px;
+}
+.address p {
+	padding: 0 50px;
+	text-align: center;
+}
+.custom_link {
+    padding: 10px 0;
+    list-style: none;
+    text-align: center;
+}
+/*contact end*/
+}
+
+/*SM Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.menubar ul li a{
+	padding: 0 0px !important;
+	text-align: right;
+}
+/*header end*/
+/*slider start*/
+.slider{
+	background-color: #fcdb00;
+	padding-top: 15px;
+	padding-bottom: 80px;
+}
+.inspiration{
+	margin-top: 0px;
+}
+.inspiration h1{
+	font-size: 24px;
+}
+.inspiration h3{
+	font-size: 18px;
+}
+.inspiration p{
+	font-size: 16px;
+}
+.inspiration i{
+	font-size: 25px;	
+	margin-right: 10px;
+}
+.c_indi li {
+    width: 12px;
+    height: 12px;
+}
+/*slider end*/
+/*features start*/
+.content h1{
+    font-size: 24px;
+	padding-top: 30px;
+}
+.content p{
+	padding: 0 30px;
+	font-size: 16px;
+	padding-bottom: 20px;
+}
+.logo{
+	padding: 7px;
+}
+.logo a{
+	font-size: 30px;	
+}
+.content_feature{}
+.content_title {
+    padding: 0px;
+}
+.content_feature h1{
+	padding-top: 7px;
+	font-size: 18px;
+}
+.content_feature p{
+    padding-bottom: 0px;
+
+}
+/*features end*/
+/*contact start*/
+.contact_icon {
+    padding-top: 50px;
+}
+.touch h1 {
+    padding-top: 40px;
+    font-size: 24px;
+    padding-bottom: 10px;
+}
+.touch p {
+    padding: 0 0px;
+    font-size: 16px;
+    padding-bottom: 20px;
+}
+.address {
+    padding-top: 30px;
+}
+.address p {
+	text-align: center;
+}
+.custom_link {
+    padding: 10px 0;
+    list-style: none;
+    text-align: center;
+}
+/*contact end*/
+}
+/*MD Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.menubar ul li a{
+	padding: 0 0px !important;
+	text-align: center;
+}
+/*header end*/
+/*slider start*/
+.inspiration{
+	margin-top: 0px;
+}
+.inspiration i{
+	font-size: 35px;	
+	margin-right: 18px;
+}
+/*slider end*/
+/*features start*/
+.content h1{
+	padding-top: 30px;
+}
+.content p{
+	padding: 0 50px;
+	font-size: 18px;
+	padding-bottom: 40px;
+}
+.logo{
+	padding: 0px;
+}
+.logo a{
+	font-size: 40px;	
+}
+.content_feature{}
+.content_feature h1{
+	padding-top: 7px;
+	font-size: 20px;
+}
+.content_feature p{
+    padding-bottom: 50px;
+
+}
+/*features end*/
+/*contact start*/
+.form{
+	padding-left: 150px;
+}
+.custom_form{
+	height: 40px;
+	padding: 0 80px;
+
+}
+.custom_btn{
+	width: 80px;
+	height: 40px;
+}
+.address{
+	padding-top: 100px;
+}
+.address p{
+	padding: 0 0px;
+}
+/*contact end*/
+}
+
+/*LG Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*contact start*/
+.address{
+	padding-top: 100px;
+}
+/*contact end*/
+
+}
+
+/*XL Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+/*contact start*/
+.address{
+	padding-top: 100px;
+}
+/*contact end*/
+
+}
