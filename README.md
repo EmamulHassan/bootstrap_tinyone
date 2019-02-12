@@ -1,2 +1,2 @@
 # bootstrap_tinyone
-practice day 3
+https://emamulhassan.github.io/bootstrap_tinyone/
