@@ -15,7 +15,10 @@ header{
 	padding: 0 32px !important;
 	font-size: 22px;
 	font-weight: 700;
-
+	transition: .5s;
+}
+.menubar ul li a:hover{
+	color: #ffffff !important;
 }
 /*header end*/
 
