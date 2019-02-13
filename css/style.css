@@ -179,6 +179,7 @@ header{
 	font-weight: 400;
 	color: #ffffff;
 	transition: .5s;
+	text-decoration: none;
 }
 .custom_link a:hover{
 	color: #fcdb00;
