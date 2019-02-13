@@ -151,8 +151,15 @@ header{
 
 	
 }
-.contact_icon img{
+.contact_icon i{
 	padding: 0 30px;
+	color: #fcdb00;
+	font-size: 45px;	
+	margin-right: 20px;
+	transition: .5s;
+}
+.contact_icon i:hover{
+	color: #ffffff;
 }
 .address{
 	padding-top: 100px;
