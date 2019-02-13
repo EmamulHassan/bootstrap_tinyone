@@ -68,7 +68,11 @@
 /*features end*/
 /*contact start*/
 .contact_icon {
-    padding-top: 50px;
+    padding-top: 40px;
+}
+.contact_icon i {
+    padding: 0 0px;
+    font-size: 30px;
 }
 .touch h1 {
     padding-top: 40px;
@@ -79,6 +83,12 @@
     padding: 0 0px;
     font-size: 16px;
     padding-bottom: 20px;
+}
+.p_l_0 {
+    padding-left: 15px;
+}
+.custom_btn{
+	margin-top: 10px;
 }
 .contact_icon img {
     padding: 0 10px;
@@ -103,7 +113,7 @@
 /*header start*/
 .menubar ul li a{
 	padding: 0 0px !important;
-	text-align: right;
+    text-align: center;
 }
 /*header end*/
 /*slider start*/
@@ -164,7 +174,11 @@
 /*features end*/
 /*contact start*/
 .contact_icon {
-    padding-top: 50px;
+    padding-top: 40px;
+}
+.contact_icon i{
+	padding: 0 10px;
+	font-size: 35px;	
 }
 .touch h1 {
     padding-top: 40px;
